@@ -1,17 +1,19 @@
 [PROJECT]
 # com.это_значение.app
-package = template
+package = goldballs
 data_url = https://ostats-23c52-default-rtdb.europe-west1.firebasedatabase.app/GoldPlayers.json
 
 [KEYSTORE]
 name = ANDREI IVANOV
 
 [TEXT]
-app_name = Приложуха
-tab_title = ВАУ
+app_name = Goldballs
+tab_title = Игроки
 about_text :
-    Тут какой то текст
-    Можно в несколько строк
+	Представляем вашему вниманию список футболистов, которые в последние 20 лет стали обладаталеми самого престижного трофея среди футболистов - золотого мяча.
+	Золотой мяч присуждается каждый год лучшему футболисту мира по версии старейшего футбольного издания France Football,
+	в голосовании участвуют журналисты, а также главные тренеры и капитаны национальных сборных.
+	Надеемся вам понравится и вы увидите в будудщем еще более увлекательные подборки из мира футбола.
 
 [COLORS_DAY]
 colorPrimary = #FF6200EE
